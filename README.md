@@ -36,7 +36,7 @@ this is a simple react application that manages tasks.
 
 3. Edit form to update values of individual task.
 
-4. Delete button to delete perticular task.
+4. Delete button to delete particular task.
 
 5. Sort buttonn to sort the list by date and priority.
 
